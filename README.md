@@ -2,8 +2,8 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:488f9d,100:07dc5c&height=180&text=zyxwvutsujin%20SPACE&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 👀 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 아직 수정중ㄱㄷㄱㄷ; </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,4 +29,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyxwvutsujin&layout=compact&bg_color=180,7dc5cf,00000000&title_color=ffffff&text_color=ffffff"
            /> </div> 
     </div>
+    
     
